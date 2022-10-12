@@ -1,4 +1,15 @@
-site_name: QA Docs test site
+site_name: QA Technical Doc site
 theme:
   name: material
-  
+
+
+nav:
+    - Home: 'index.md'
+
+    - Tooling:
+        - 'UI Automation': 'ui-automation.md'
+        - 'API Automation': 'api-automation.md'
+        - 'Desktop Automation': 'desktop-automation.md'
+
+    - FAQs: 'faqs.md'
+

@@ -1,13 +1,13 @@
-# Welcome to MkDocs
+# QA Technical Documentation Site
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This site will list approved tooling and guidance for QA Test Automation.
 
-## Commands
+## Overview
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+FAQs - Common Q/A around best practices for QA
+
+Tooling/Guidance - Tools currently used in house for different automated testing
+
 
 ## Project layout
 
