@@ -1,2 +1,2 @@
-# KBPOC
-Knowledge base sample
+# QA Docs
+QA documentation proof of concept (sample)
